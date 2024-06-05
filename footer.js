@@ -1,0 +1,1 @@
+git show <SHA || ID>
